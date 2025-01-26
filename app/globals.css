@@ -18,3 +18,20 @@ body {
   color: var(--foreground);
   background: var(--background);
 }
+
+/* Fade-in/up animation */
+.fade-in-up {
+  opacity: 0;
+  animation: fadeInUp 0.7s ease-in-out;
+  transition: opacity 0.7s ease-out, transform 0.7s ease-out;
+}
+
+.fade-in-up.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+section[id] {
+  scroll-margin-top: 6rem; /* Adjust value based on your navbar height */
+}
+
