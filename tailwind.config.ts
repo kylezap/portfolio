@@ -37,15 +37,15 @@ export default {
           },
         },
         fadeIn: {
-          from: { opacity: 0 },
-          to: { opacity: 1 },
+          from: { opacity: "0" },
+          to: { opacity: "1" },
         },
-        animation: {
-          slideUp: "slideUp 0.5s ease-out forwards",
-          slideBounce:
-            "slideUpAndBounce 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards",
-          fade: "fadeIn 0.5s ease-in-out",
-        },
+      },
+      animation: {
+        slideUp: "slideUp 0.5s ease-out forwards",
+        slideBounce:
+          "slideUpAndBounce 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards",
+        fade: "fadeIn 0.5s ease-in-out",
       },
     },
     plugins: [],
