@@ -14,7 +14,7 @@ export default function useIntersectionObserver(selector: string) {
                 });
             },
             {   root: null,
-                rootMargin: '0px 0px -20% 0px',
+                rootMargin: '0px 0px -10% 0px',
                 threshold: 0.1 }
         );
 
