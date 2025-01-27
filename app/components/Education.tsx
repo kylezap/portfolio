@@ -10,9 +10,8 @@ export default function Example() {
           Education
         </h2>
         <p className="mt-8 text-pretty text-lg font-medium text-gray-400 sm:text-xl/8">
-          I have a Bachelor of Business Administration from the University of
-          Massachusetts Amherst, along with completing a Fullstack Coding
-          Curriculum from the UNC-Charlotte.
+          I have a Bachelor of Business Administration from UMass-Amherst, along with completing a Fullstack Coding
+          Curriculum from UNC-Charlotte.
         </p>
       </div>
     </section>

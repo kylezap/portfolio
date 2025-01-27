@@ -75,8 +75,8 @@ export default function Example() {
                     Book Search
                   </p>
                   <p className="mt-2 max-w-lg text-sm/6 text-gray-400">
-                    A book finiding application that allows users to search for
-                    books and save them to a list.
+                    An application that allows users to create accounts, search for
+                    books, and save a list.
                   </p>
                   <div className="pt-4">
                     <a
