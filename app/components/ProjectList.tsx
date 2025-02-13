@@ -42,14 +42,14 @@ export default function Example() {
                   <div className="pt-4">
                     <a
                       href="https://rightsize-meals-1.onrender.com"
-                      className="hover:underline hover:text-gray-300"
+                      className=" hover:text-gray-400"
                       target="_blank"
                     >
-                      Live{" "}
+                      Live{" | "}
                     </a>
                     <a
                       href="http://github.com/kylezap/rightsize-meals"
-                      className="hover:underline hover:text-gray-300"
+                      className=" hover:text-gray-400"
                       target="_blank"
                     >
                       Github
@@ -81,14 +81,14 @@ export default function Example() {
                   <div className="pt-4">
                     <a
                       href="https://book-search-engine-whc8.onrender.com/"
-                      className="hover:underline hover:text-gray-300"
+                      className=" hover:text-gray-400"
                       target="_blank"
                     >
-                      Live{" "}
+                      Live{" | "}
                     </a>
                     <a
                       href="http://https://github.com/kylezap/book-search-engine-mern-stack"
-                      className="hover:underline hover:text-gray-300"
+                      className=" hover:text-gray-400"
                       target="_blank"
                     >
                       Github
@@ -120,14 +120,14 @@ export default function Example() {
                   <div className="pt-4">
                     <a
                       href="https://christmas-wishlist1.netlify.app/"
-                      className="hover:underline hover:text-gray-300"
+                      className=" hover:text-gray-400"
                       target="_blank"
                     >
-                      Live{" "}
+                      Live{" | "}
                     </a>
                     <a
                       href="http://github.com/kylezap/christmas-wishlist"
-                      className="hover:underline hover:text-gray-300"
+                      className=" hover:text-gray-400"
                       target="_blank"
                     >
                       Github
@@ -159,14 +159,14 @@ export default function Example() {
                   <div className="pt-4">
                     <a
                       href="http://house-compass.com"
-                      className="hover:underline hover:text-gray-300"
+                      className=" hover:text-gray-400"
                       target="_blank"
                     >
-                      Live{" "}
+                      Live{" | "}
                     </a>
                     <a
                       href="http://github.com/kylezap/house-compass"
-                      className="hover:underline hover:text-gray-300"
+                      className=" hover:text-gray-400"
                       target="_blank"
                     >
                       Github
