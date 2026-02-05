@@ -9,14 +9,20 @@ export default function Example() {
             Projects
           </h2>
           <p className="mt-8 text-pretty text-lg font-medium text-gray-400 sm:text-xl/8">
-            A few projects I&apos;ve worked on.
+            My current working projects.
           </p>
         </div>
       </section>
-      <div className="py-16 sm:py-24">
+      <div className="py-8 sm:py-12">
         <div className="mx-auto max-w-2xl px-6 lg:max-w-7xl lg:px-8">
           <div className="mt-10 sm:mt-16 space-y-8">
-            <Project
+          <Project
+              title="Frontstead"
+              description="An AI enabled real estate portal and CRM for small, nimble brokerages."
+              image="/Frontstead.png"
+              link="https://app.frontstead.com"
+            />
+            {/* <Project
               title="Rightsize Meals"
               description="Full-stack application that allows users to discover calorie and food recommendations."
               image="/Rightsize.png"
@@ -39,7 +45,7 @@ export default function Example() {
               description="A real estate application that allows users to search and find out what direction any home faces."
               image="/house-compass.png"
               link="http://house-compass.com"
-            />
+            /> */}
           </div>
         </div>
       </div>
