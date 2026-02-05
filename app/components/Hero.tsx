@@ -6,15 +6,14 @@ export default function Hero() {
     return (
         <div className="relative isolate overflow-hidden ">
         
-        <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8">
+        <div className="mx-auto max-w-7xl px-6 py-12 sm:py-16 lg:px-8">
           <div className="mx-auto max-w-2xl lg:mx-0 lg:grid lg:max-w-none lg:grid-cols-2 lg:gap-x-16 lg:gap-y-8 xl:grid-cols-1 xl:grid-rows-1 xl:gap-x-8">
-            <h1 className="max-w-2xl text-balance text-5xl font-semibold tracking-tight  sm:text-7xl lg:col-span-2 xl:col-auto">
-              Bridging Software and Real Estate
+            <h1 className="max-w-lg text-balance text-5xl font-semibold tracking-tight  sm:text-7xl lg:col-span-2 xl:col-auto">
+              Solutions and Data Engineering
             </h1>
             <div className="mt-6 max-w-xl lg:mt-0 xl:col-end-1 xl:row-start-1">
               <p className="text-pretty text-lg font-medium text-gray-500 sm:text-xl/8">
-                I&apos;m Kyle, a software developer and real estate broker. I love to build robust, high-quality apps and websites that are accessible, performant, and user-friendly. With a background in sales and marketing, I bring a unique perspective that helps me create solutions that are both technically sound and business-focused.
-              </p>
+              I’m a Solutions Engineer focused on turning customer problems into production systems. I work across backend, APIs, and data pipelines to deliver solutions that fit real environments and constraints. My strength is bridging technical execution with business outcomes.              </p>
               <div className="mt-10 flex items-center gap-x-6">
                 <a
                   href="/Kyle_Zapcic_Solutions_Engineer.pdf"
