@@ -28,7 +28,7 @@ export default function Tech() {
           </p>
         </div>
       </section>
-      <section className=" py-24 sm:py-32">
+      <section className=" py-12 sm:py-16">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="-mx-6 grid grid-cols-2 gap-0.5 overflow-hidden sm:mx-0 sm:rounded-2xl md:grid-cols-3">
             {technologies.map((tech) => (
