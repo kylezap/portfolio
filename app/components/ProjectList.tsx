@@ -8,9 +8,6 @@ export default function Example() {
           <h2 className="text-3xl font-semibold tracking-tight sm:text-5xl">
             Projects
           </h2>
-          <p className="mt-8 text-pretty text-lg font-medium text-gray-400 sm:text-xl/8">
-            My current working projects.
-          </p>
         </div>
       </section>
       <div className="py-8 sm:py-12">
@@ -20,7 +17,7 @@ export default function Example() {
               title="Frontstead"
               description="An AI enabled real estate portal and CRM for small, nimble brokerages."
               image="/Frontstead.png"
-              link="https://app.frontstead.com"
+              link="https://demo.frontstead.com"
             />
             {/* <Project
               title="Rightsize Meals"
